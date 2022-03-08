@@ -3,7 +3,7 @@
 
 
 let buttons = document.querySelectorAll(".drum");
-
+let denis = 122;
 
 for (i=0;i<buttons.length;i++){
 
